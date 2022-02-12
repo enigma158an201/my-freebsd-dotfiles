@@ -1,0 +1,7 @@
+! .Xmodmap
+!
+ 
+! Override right control key
+clear Control
+keycode 109 = Control_R
+add Control = Control_L Control_R
