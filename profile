@@ -1,0 +1,2 @@
+LANG=fr_FR.UTF8; export LANG
+MM_CHARSET=UTF-8; export MM_CHARSET
